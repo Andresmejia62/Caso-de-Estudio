@@ -16,3 +16,5 @@ APA.
 
 # Instrucciones de uso
 Dividimos el proyecto en ramas, en donde cada una corresponde al tipo de busqueda que se le quiera dar a la bibloteca. Para su uso solo hacer pull al la rama interesada, ejecturar y listo.
+
+#### Repositorio de los primeros 6 ejercicios practica: https://github.com/silvadiego-08/EjerciciosPractica.git
