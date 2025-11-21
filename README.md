@@ -18,3 +18,4 @@ APA.
 Dividimos el proyecto en ramas, en donde cada una corresponde al tipo de busqueda que se le quiera dar a la bibloteca. Para su uso solo hacer pull al la rama interesada, ejecturar y listo.
 
 #### Repositorio de los primeros 6 ejercicios practica: https://github.com/silvadiego-08/EjerciciosPractica.git
+### Documentacion: https://drive.google.com/drive/folders/1W-y9nOV-D7tOQF6USVzL1X8JwCMPc1VH?usp=drive_link
